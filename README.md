@@ -6,3 +6,5 @@ Backend and front-end of the weather station project
 `npm install`
 
 `node index.js`
+
+project tutorial is at [Weather Station](https://jinas.me/posts/13/)
